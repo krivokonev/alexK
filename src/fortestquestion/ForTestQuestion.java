@@ -35,7 +35,7 @@ List<String> wordList = Arrays.asList(words);
     }
     
    static void run2(){
-       Integer[] words = {1,6, 6,2, 3,  8,11,12};
+       Integer[] words = {1,6, 6,2, 3,  8,11,14};
 //Как вы можете обратить внимание, у нас есть массив строк Integer[] words. 
 //В котором у нас лежат 5 строк.
 List<Integer> wordList = Arrays.asList(words);
